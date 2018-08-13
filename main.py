@@ -1,7 +1,10 @@
 def add(a, b):
-    return a - b
+    return a + b
+
 
 def test_add():
-    assert add(1,1) == 2
+    assert add(1, 1) == 2
 
-test_add()
+
+if __name__ == "__main__":
+    test_add()

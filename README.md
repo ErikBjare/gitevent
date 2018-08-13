@@ -31,4 +31,4 @@
  - Run tests with `nosetests --coverage`
  - Add magic line to `.travis.yml`
  - Commit, push
- - Important point: Don't make 100% code coverage a goal, it won't solve all your problems.
+ - Important point: Don't make 100% code coverage a goal (unless you have special needs), it won't solve all your problems.
